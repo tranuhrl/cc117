@@ -1,0 +1,19 @@
+html
+{
+    height:100%;
+}
+body
+{
+    background: linear-gradient(#ffbb00, #fff700);
+}
+#timer
+{
+font-size: x-large;
+float:right;
+margin-right: 10%;
+}
+#score
+{
+    font-size:xx-large;
+    margin-right: 70%;
+}
